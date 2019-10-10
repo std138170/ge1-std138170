@@ -1,4 +1,4 @@
-First Header | ![GitHub Logo](/resume/logo.png)
+First Header | ![GitHub Logo](/resume/foto.png)
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
