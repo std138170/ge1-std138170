@@ -1,29 +1,28 @@
-First Header | ![GitHub Logo](/resume/foto.png)
+**ΣΔΥ 60** | ![GitHub Logo](/resume/foto.png)
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-ssssss | sssss
+**Βιογραφικό Σημείωμα Φοιτητή** | 
+**Ακαδημαϊκό έτος 2019-2020** | 
+**Τμήμα: ΗΛΕ41** | 
 
-First Header | Second Header
+**Ονοματεπώνμυο** | Χρήστος Ηλιόπουλος
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-First Header | Second Header
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-First Header | Second Header
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-First Header | Second Header
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-First Header | Second Header
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-First Header | Second Header
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+**Κινητό Τηλέφωνο** | 6989356656
+**Διεύθυνση1** | Αθήνα, Αιγάλεω, Μοσχονησίων 32
+**Διεύθυνση2** | Λάρισα, Μητροπούλου 28
+**E-mail (ΕΑΠ)** | std13870@ac.eap.gr
+**E-mail (Προσωπικό)** | xristosiliopoulos@hotmail.com
+**Έτος γέννησης** | 1992
+**Οικογενειακή Κατάσταση** | Έγγαμος
+**Σπουδές λυκείου (κατεύθυνση)** | Τεχνολογική
+**Μεταλυκειακές σπουδές (ειδικότητα)** | Σχολή Ικάρων (Μηχανικός Τηλεπικοινωνιών) 
+**Ξένες γλώσσες (επίπεδο)** | Αγγλικά (Proficiency)
+**Επάγγλεμα** | Στρατιωτικός
+**Πλήρης/μερική απασχόλιση** | Πλήρης
+**Ιδιαιτερότητες ωραρίου** | Τις πρωινές ώρες (καθημερινές και λίγα σαββατοκύριακα) πιθανόν να μην έχω σήμα στο κινητό μου τηλέφωνο
+**Άλλη θεματική ενότητα που δηλώσατε φέτος** | ΣΔΥ61
+**Άλλες θεματικές ενότητες που έχετε περάσει** | ΣΔΥ50, ΣΔΥ51
+**Τι προσδοκάτε από τις σπουδές σας** | Εμπλουτισμό γνώσεων
+**Ποιές δυσκολίες αναμένετε φέτος** | Δύσκολο ωράριο εργασίας και περιορισμένος ελεύθερος χρόνος λόγω παρακολούθησης δύο ενοτήτων (60 και 61)
+**Άλλα σχόλια που θα θέλατε να στείλετε στον καθηγητή - σύμβουλό σας** | Κ. Χωριανόπουλε θα ήθελα να σας ενημερώσω ότι στην Θ.Ε. ΣΔΥ61 είμαι ενταγμένος σε τμήμα δια ζώσης παρόλο που είχα δηλώσει μοναδική προτίμηση για ηλεκτρονικό τμήμα. Ορισμένες από τις ΟΣΣ των δύο θεματικών ενοτήτων είναι προγραμματισμένες την ίδια ημερομηνία, οπότε δεν γνωρίζω το κατά πόσο θα καταφέρω να είμαι συνεπής στις Συναντήσεις μας. Στόχος μου είναι να είμαι παρών σε όλες, ωστόσο γίνεται αντιληπτό ότι για να συμβεί αυτό θα πρέπει κάθε φορά να φέρνω εις πέρας αντικειμενικές δυσκολίες (π.χ. μετακίνηση, ψυχοσωματική κούραση)
 
 
-<img src="resume/foto.png" width="20">
-(/resume/foto.png=100x100)
